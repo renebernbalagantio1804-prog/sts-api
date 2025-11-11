@@ -23,4 +23,4 @@ jobs:
         with:
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: google-cloud-run-proxy:latest
+          tags: praveenkarunarathne/google-cloud-run-proxy:latest
